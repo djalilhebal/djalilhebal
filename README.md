@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, it's Djalil</h1>
 <div align="center">A software engineer(ing graduate).</div>
 
-- 🌱 I’m currently learning **Python** and **Odoo**.
+- 🌱 I’m currently learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel)).
 
 - 📝 I write stuff on [blog.djalil.me](https://blog.djalil.me)
 

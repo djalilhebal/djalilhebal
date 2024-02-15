@@ -3,7 +3,9 @@
 <h1 align="center">Hi there, it's Djalil</h1>
 <div align="center">A software engineer(ing graduate).</div>
 
-- 🌱 I’m currently learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel)).
+- 🌱 I’m currently
+~~learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel))~~
+relearning **Vue**.
 
 - 📝 I write stuff on [blog.djalil.me](https://blog.djalil.me)
 
@@ -11,10 +13,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="djalilhebal" height="30" width="40" /></a>
-<a href="https://dev.to/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djalilhebal" height="30" width="40" /></a>
-<a href="https://twitter.com/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djalilhebal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdeldjalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdeldjalilhebal" height="30" width="40" /></a>
+<a href="https://twitter.com/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djalilhebal" height="30" width="40" /></a>
+<a href="https://dev.to/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djalilhebal" height="30" width="40" /></a>
+<a href="https://codepen.io/djalilhebal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="djalilhebal" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

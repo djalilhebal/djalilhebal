@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, it's Djalil</h1>
 <div align="center">A software engineer(ing graduate).</div>
 
-- 🌱 I’m currently
+- I'm currently
   ~~learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel))~~
   relearning **Vue** and **NestJS**.
 
-- 📝 I write stuff on [blog.djalil.me](https://blog.djalil.me):
+- I write stuff on [blog.djalil.me](https://blog.djalil.me):
 
   * [ZeroMessenger: Improving Facebook Zero's messaging functionality | Blunderland](https://blog.djalil.me/posts/zero)
 
@@ -23,7 +23,7 @@
 </p>
 
 
-<h2 align="left">Stuff I use/used</h2>
+<h2 align="left">Stuff I use/used 🛠️</h2>
 <p align="left">
 <a href="https://www.java.com"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/></a>
 <!-- JavaScript -->
@@ -50,7 +50,7 @@
 <a href="https://redis.io"><img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/></a>
 
 
-<h2 align="left">Stuff I wanna learn 🌈</h2>
+<h2 align="left">Stuff I wanna learn 🌱</h2>
 <a href="https://neo4j.com/"><img alt="Neo4j" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="40"/></a>
 <a href="https://quarkus.io/"><img alt="Quarkus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" height="40"/></a>
 </p>

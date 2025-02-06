@@ -14,7 +14,7 @@
   * [Red Queen's race and the software development process | Blunderland](https://djalil-blog-neo.vercel.app/red-queens-race/)
 
 
-<h2 align="left">Elsewhere</h2>
+<h2 align="left">🕸️ Elsewhere</h2>
 <p align="left">
 <a href="https://linkedin.com/in/abdeldjalilhebal"><img alt="LinkedIn" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /></a>
 <a href="https://twitter.com/djalilhebal"><img alt="X/Twitter" align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 
-<h2 align="left">Stuff I use/used 🛠️</h2>
+<h2 align="left">🛠️ Stuff I use/used</h2>
 <p align="left">
 <a href="https://www.java.com"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/></a>
 <!-- JavaScript -->
@@ -50,7 +50,7 @@
 <a href="https://redis.io"><img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/></a>
 
 
-<h2 align="left">Stuff I wanna learn 🌱</h2>
+<h2 align="left">🌱 Stuff I wanna learn</h2>
 <a href="https://neo4j.com/"><img alt="Neo4j" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="40"/></a>
 <a href="https://quarkus.io/"><img alt="Quarkus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" height="40"/></a>
 </p>

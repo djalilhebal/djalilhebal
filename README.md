@@ -5,14 +5,7 @@
   ~~learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel))~~
   relearning **Vue** and **NestJS**.
 
-- I write stuff on [blog.djalil.me](https://blog.djalil.me) or [kunzite.cc](https://kunzite.cc):
-
-  * [ZeroMessenger: Improving Facebook Zero's messaging functionality | Djalil's Blog](https://blog.djalil.me/posts/zero)
-
-  * [Introducing Super Scoreboard: Tracking cooldowns without even thinking | Kunzite](https://kunzite.cc/introducing-super-scoreboard/)
-
-  * [Red Queen's race and the software development process | Kunzite](https://kunzite.cc/red-queens-race/)
-
+- I write stuff on [blog.djalil.me](https://blog.djalil.me) and [kunzite.cc](https://kunzite.cc).
 
 <h2 align="left">🕸️ Elsewhere</h2>
 <p align="left">

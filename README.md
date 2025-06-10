@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, it's Djalil</h1>
-<div align="center">A software engineer(ing graduate).</div>
+<div align="center">Software engineer</div>
 
 - I'm currently
   ~~learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel))~~
   relearning **Vue** and **NestJS**.
 
-- I write stuff on [blog.djalil.me](https://blog.djalil.me) and [kunzite.cc](https://kunzite.cc).
+- I write stuff on [kunzite.cc](https://kunzite.cc).
 
 <h2 align="left">🕸️ Elsewhere</h2>
 <p align="left">
@@ -26,10 +26,8 @@
 <a href="https://vuejs.org"><img alt="VueJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40"/></a>
 <a href="https://quasar.dev"><img alt="Quasar Framework" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg"/></a>
 <a href="https://www.electronjs.org"><img alt="Electron" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" height="40"/></a> 
-<a href="https://cordova.apache.org"><img alt="Apache Cordova" height="40" src="./assets/cordova_128.png"/></a>
 <!-- React -->
 <a href="https://reactjs.org"><img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/></a>
-<a href="https://nextjs.org"><img alt="NextJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a> 
 
 <!-- Meh -->
 <a href="https://playwright.dev"><img alt="Playwright" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /></a>
@@ -46,4 +44,5 @@
 <h2 align="left">🌱 Stuff I wanna learn</h2>
 <a href="https://neo4j.com/"><img alt="Neo4j" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="40"/></a>
 <a href="https://quarkus.io/"><img alt="Quarkus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" height="40"/></a>
+<a href="https://go.dev/"><img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height="40"/></a>
 </p>

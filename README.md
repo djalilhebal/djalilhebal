@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, it's Djalil</h1>
 <div align="center">Software engineer</div>
 
-- I'm currently
-  ~~learning **Python**/**Odoo** (see [`contact_travel`](https://github.com/djalilhebal/contact_travel))~~
-  relearning **Vue** and **NestJS**.
+Hi again, it's me, [Djalil.me](https://djalil.me).
 
-- I write stuff on [kunzite.cc](https://kunzite.cc).
+I write stuff on [kunzite.cc](https://kunzite.cc).
 
 <h2 align="left">🕸️ Elsewhere</h2>
 <p align="left">
@@ -29,16 +27,19 @@
 <!-- React -->
 <a href="https://reactjs.org"><img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/></a>
 
-<!-- Meh -->
-<a href="https://playwright.dev"><img alt="Playwright" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /></a>
-<a href="https://jestjs.io"><img alt="JestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/></a>
-<a href="https://git-scm.com"><img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  /></a>
-
 <!-- Databases -->
 <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/></a>
 <a href="https://www.mongodb.com"><img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/></a>
 <a href="https://redis.io"><img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/></a>
+
+<!-- Dev tools -->
+<a href="https://www.docker.com/"><img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/></a>
+<a href="https://git-scm.com"><img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  /></a>
+
+<!-- Testing -->
+<a href="https://playwright.dev"><img alt="Playwright" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /></a>
+<a href="https://jestjs.io"><img alt="JestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/></a>
 
 
 <h2 align="left">🌱 Stuff I wanna learn</h2>
